@@ -2,12 +2,7 @@ import { useEffect } from "react";
 
 import Navbar from "../Navbar";
 
-import {
-  FaCode,
-  FaExternalLinkAlt,
-  FaGithub,
-  FaLaptopCode
-} from "react-icons/fa";
+import { FaCode, FaExternalLinkAlt, FaGithub, FaLaptopCode } from "react-icons/fa6";
 
 export default function Projetos() {
 
